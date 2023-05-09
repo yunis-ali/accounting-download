@@ -15,4 +15,8 @@ Go to `MyDocuments/HGIT-Accounting` and delete file `Accounting-latest`. Delete 
 ## ChangeLog
 
 Auto generate change log  
-`git log --pretty="- %s" > CHANGELOG.md`
+`git log --pretty="- %s" > CHANGELOG.md`  
+
+Or  
+`npm install generate-changelog -g `  
+`changelog generate`
