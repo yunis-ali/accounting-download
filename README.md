@@ -11,3 +11,8 @@ Go to `MyDocuments/HGIT-Accounting` and delete file `Accounting-latest`, a new f
   
 It loaded yesterday but not today  
 Go to `MyDocuments/HGIT-Accounting` and delete file `Accounting-latest`. Delete file `Accounting-<todays date>`. Copy and paste Yesterdays file and rename it to `Accounting-latest`.
+
+## ChangeLog
+
+Auto generate change log  
+`git log --pretty="- %s" > CHANGELOG.md`
