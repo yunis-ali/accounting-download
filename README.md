@@ -1,7 +1,7 @@
 # Accounting Download  
 
-1. [Download](https://github.com/yunis-ali/accounting-download/raw/main/Setup_2.0.32.0_Test.zip) and Unzip folder    
-2. Install `.cer` certificate on the local machine under `Trusted Root Certification Authorities` (you have to find the store manually during installation)  
+1. Download and Unzip the latest release    
+2. Install `.cer` certificate on the `Local Machine` under `Trusted Root Certification Authorities` (you have to browse the certificate store manually during installation)  
 3. Install `.appxbundle` 
 
 ## Troubleshoot  
